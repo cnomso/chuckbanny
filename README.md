@@ -9,10 +9,13 @@ This is a web portfolio of Chuck Banny a Digital Artist and Illustrator
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  * Copyright 2023 Fonticons, Inc.
 
-* Bootstrap v5.3.2 (https://getbootstrap.com/)
+* Bootstrap v5.3.2 (https://g etbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors
  * Copyright 2011-2023 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+
+
+DESIGN & DEVELOPMENT TOOLS USED: Figma, Affinity Designer & VS Code
 
 
 
