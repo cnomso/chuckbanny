@@ -2,6 +2,7 @@
 =============================================
 
 This is a web portfolio of Chuck Banny a Digital Artist and Illustrator
+Project video: https://shorturl.at/hmuIT
 
 ## Resources
 ==================
