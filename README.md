@@ -19,30 +19,26 @@ DESIGN & DEVELOPMENT TOOLS USED: Figma, Affinity Designer & VS Code
 
 
 
-## Plan
-===========
-
-
-## Figma
-=========== 
-
-
 # WEBSITE
 =============
-
+This are the sections of the website 
 
 ## Header
 ===========
-
+![Header banner and Nav](/screenshots/header-banner.png)
 
 # About
 ============
+![About section](/screenshots/about.png)
 
 # Skills
-
+![Skills](/screenshots/Skills.png)
 
 # Portfolio
 ===========
+![Projects](/screenshots/projects.png)
+
 
 # Contact
 ============
+![Contact](/screenshots/footer.png)
