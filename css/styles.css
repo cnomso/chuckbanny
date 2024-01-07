@@ -547,7 +547,7 @@ select {
 /*******************/
 .split .area-1 {
 	height: 430px;
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/About-photo.png') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/me_2024.jpg') center center no-repeat;
 	background-size: cover;
 }
 
